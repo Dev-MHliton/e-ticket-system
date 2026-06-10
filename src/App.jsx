@@ -1,17 +1,16 @@
 import { Suspense, useState } from 'react'
-import './App.css'
 import Customer_Tickets from './Components/Customer_Tickets'
 import Progress_Resolve_Banner from './Components/Progress_Resolve_Banner'
 import Footer from './Share/Footer'
 import Navbar from './Share/Navbar'
 import TicketActions from './Components/TicketActions'
+import './App.css'
 
 
 const fetchTickets = async () => {
   const res = await fetch("/cs_tickets.json")
   return res.json();
 }
-
 
 function App() {
 
