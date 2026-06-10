@@ -1,6 +1,8 @@
 import { Link as ScrollLink } from "react-scroll";
 
 const Navbar = () => {
+
+    // Navbar menu 
     const navOptions = (
         <>
             <ScrollLink to="home" smooth duration={500} className="cursor-pointer hover:text-primary transition">Home</ScrollLink>
