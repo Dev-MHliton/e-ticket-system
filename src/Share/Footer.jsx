@@ -4,8 +4,9 @@ const Footer = () => {
     return (
         <section>
             <main className="grow">
-
             </main>
+
+            {/* Footer set  */}
             <footer className="bg-black text-white rounded-t-xl pt-10">
 
                 <div className="max-w-6xl mx-auto flex flex-wrap justify-between gap-6">
