@@ -6,7 +6,6 @@ import Navbar from './Share/Navbar'
 import TicketActions from './Components/TicketActions'
 import './App.css'
 
-
 const fetchTickets = async () => {
   const res = await fetch("/cs_tickets.json")
   return res.json();

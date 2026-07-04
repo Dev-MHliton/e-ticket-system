@@ -180,7 +180,6 @@ Through this project, I practiced:
 ## 👨‍💻 Developer
 
 ### MH Liton
-
 Frontend Developer passionate about building modern and user-friendly web applications.
 
 🔗 GitHub: https://github.com/Dev-MHliton
