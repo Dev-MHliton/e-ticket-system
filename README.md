@@ -196,7 +196,5 @@ It helps support future open-source projects and motivates continuous improvemen
 ---
 
 <div align="center">
-
 Made with ❤️ using React, Vite & Tailwind CSS
-
 </div>
